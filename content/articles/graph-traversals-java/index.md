@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/graph-traversals-java/
+url: /graph-traversals-java/
 title: Graph Implementation and Traversal Algorithms (Java)
 description: This article will discuss graph implementation and traversal algorithms by going over some common graphs and how to traverse them with breadth-first search and depth-first search.
 author: tenson-cai

@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/tuples-data-structure-python/
+url: /tuples-data-structure-python/
 title: Tuple Data Structure in Python
 description: This article serves as an introduction to Tuples are similar to lists but vary in the following aspects they are immutable, (they cannot be changed) unlike lists which are mutable (they can be changed).
 author: saiharsha-balasubramaniam

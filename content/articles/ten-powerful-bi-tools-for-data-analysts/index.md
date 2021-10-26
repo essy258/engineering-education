@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/ten-powerful-bi-tools-for-data-analysts/
+url: /ten-powerful-bi-tools-for-data-analysts/
 title: 10 Powerful Business Intelligence Tools for Data Analysts
 description: This article will discuss the most powerful Business Intelligence tools for Data Analysts and discuss the pricing and deployment models for them.
 author: onesmus-mbaabu

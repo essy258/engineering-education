@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/npm-vs-npx/
+url: /npm-vs-npx/
 title: Comparing NPM (Node Package Manager) and NPX (Node Package Executor)
 description: This article will explain the differences between NPM (Node Package Manager) and NPX (Node Package Executor).
 author: joseph-chege

@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/getting-started-with-classes-and-objects-in-c++/
+url: /getting-started-with-classes-and-objects-in-c++/
 title: Getting Started with Classes and Objects in C++ 
 description: In this article, we will learn about Classes and Objects in C++. A class is a logical method of grouping data and functions in the same construct. It is declared using the class keyword, whose functionality is similar to that of the struct C keyword.
 author: dawe-daniel

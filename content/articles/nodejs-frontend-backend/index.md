@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/nodejs-frontend-backend/
+url: /nodejs-frontend-backend/
 title: Node.js - Frontend or Backend?
 description: Node.js is a runtime environment for executing server-side code with higher efficiency and it presents a larger bandwidth to handle larger code payloads.
 author: lalithnarayan-c

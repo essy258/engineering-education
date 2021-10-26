@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/industry-4.0-and-cybersecurity/
+url: /industry-4.0-and-cybersecurity/
 title: Industry 4.0 and Cybersecurity
 description: An introduction to Industry 4.0 through the technologies that enable it, the cybersecurity challenges around it, the threats, insinuations, and potential solutions.
 author: collins-ayuya

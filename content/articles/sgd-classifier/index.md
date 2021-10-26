@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/sgd-classifier/
+url: /sgd-classifier/
 title: Stochastic Gradient Descent Optimized Linear Classifier in Python
 description: This tutorial will go over how to implement a linear classifier using a stochastic gradient descent optimizer.
 author: lalithnarayan-c

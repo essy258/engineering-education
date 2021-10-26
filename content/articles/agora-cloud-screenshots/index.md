@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/agora-cloud-screenshots/
+url: /agora-cloud-screenshots/
 title: Agora Cloud Screenshots
 description: In this tutorial, we will be building a server using Node.js and Express to start and stop capturing screenshots of video streams that occur using Agora SDKs in your application using the Cloud Recording APIs.
 author: mohan-raj

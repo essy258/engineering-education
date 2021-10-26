@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/data-mining-using-crisp-dm-methodology/
+url: /data-mining-using-crisp-dm-methodology/
 title: Data Mining using CRISP-DM methodology
 description: Introduction to CRISP-DM methodology and a tutorial on how to use this methhod to build successful data science projects and we will anaylze examples.
 author: srishilesh-p-s

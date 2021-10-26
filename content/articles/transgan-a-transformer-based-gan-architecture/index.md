@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/transgan-a-transformer-based-gan-architecture/
+url: /transgan-a-transformer-based-gan-architecture/
 title: TransGAN, a Transformer Based GAN Architecture
 description: In this article we will discuss a transformer-based generative adversarial network architecture. It attempts to re-design GANs architecture by replacing convolutions with pure transformers.
 author: willies-ogola

@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/activation-functions/
+url: /activation-functions/
 title: An Introduction to Activation Functions
 description: In this tutorial will look at some of the activation functions used frequently and implement them from scratch, coding them using Python classes. 
 author: lalithnarayan-c

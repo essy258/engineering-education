@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/building-a-basic-api-with-nodejs/
+url: /building-a-basic-api-with-nodejs/
 title: How To Build and Test a Node.js REST API with Express on Ubuntu 18.04
 description: In this guide, you will build a Node.js REST API with the Express Framework, expose it to the internet with Ngrok.
 author: adrian-murage

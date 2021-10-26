@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/meta-learning/
+url: /meta-learning/
 title: An Overview of Meta-Learning
 description: This article will provide an overview on meta-learning. Techniques like meta-learning contribute to the quest to achieve artificial general intelligence. They move artificial intelligence closer to emulating how humans learn and solve problems.
 author: collins-ayuya

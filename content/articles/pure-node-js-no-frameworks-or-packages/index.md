@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/pure-node-js-no-frameworks-or-packages/
+url: /pure-node-js-no-frameworks-or-packages/
 title: Pure Node.js? Node.js without frameworks? An overview
 description: This article will help developers understand the nuances in using Node.js without frameworks. There is also a hands-on where we build a HTTP server with pure Node.js.
 author: joseph-chege

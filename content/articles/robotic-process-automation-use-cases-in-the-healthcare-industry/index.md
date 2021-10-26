@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/robotic-process-automation-use-cases-in-the-healthcare-industry/
+url: /robotic-process-automation-use-cases-in-the-healthcare-industry/
 title: Robotic Process Automation (RPA) in the Healthcare Industry
 description: This article will go over how robotic process automation (RPA) is reshaping the healthcare industry, with patient appointments, location information, and predictive diagnosis.
 author: eric-kahuha

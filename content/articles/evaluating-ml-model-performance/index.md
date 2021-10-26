@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/evaluating-ml-model-performance/
+url: /evaluating-ml-model-performance/
 title: Evaluating Machine Learning Model Performance
 description: This article will be going over machine learning evaluation techniques and metrics used to test overall model performance such as holdout and cross validation.
 author: collins-ayuya

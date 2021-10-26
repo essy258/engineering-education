@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/implementing-mvvm-architecture-in-android-using-kotlin/
+url: /implementing-mvvm-architecture-in-android-using-kotlin/
 title: Implementing MVVM architecture in Android using Kotlin
 description: This tutorial will go over how we implement MVVM (model–view–viewmodel) architecture in Android using Kotlin.
 author: michael-barasa

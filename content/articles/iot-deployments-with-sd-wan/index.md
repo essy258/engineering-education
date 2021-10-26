@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/iot-deployments-with-sd-wan/
+url: /iot-deployments-with-sd-wan/
 title: IoT Deployments with SD-WAN
 description: This article will discuss how SD-WAN ensures successful IoT deployments and how it compares to the traditional wide area network (WAN).
 author: eric-kahuha

@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/implementing-network-address-translation/
+url: /implementing-network-address-translation/
 title: Implementing Network Address Translation (NAT) on a Cisco Router
 description: This tutorial will be a brief dive into understanding the address translations like NAT and PAT. We will learn to implement static NAT, dynamic NAT and PAT.
 author: rabo-james-bature

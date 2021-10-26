@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/building-a-nodejs-application-using-docker/
+url: /building-a-nodejs-application-using-docker/
 title: Building A Node.js Application Using Docker
 description: This tutorial is about running a simple Node.js application using Docker especially using a Dockerfile to build a Docker image.
 author: francisca-adekanye

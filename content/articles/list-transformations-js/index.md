@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/list-transformations-js/
+url: /list-transformations-js/
 title: List transformations in JavaScript
 description: This tutorial goes over various methods used for list transformations in JavaScript, such as nested objects and arrays and transforming using underscorejs.
 author: geoffrey-mungai

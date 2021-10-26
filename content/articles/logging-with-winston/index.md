@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/logging-with-winston/
+url: /logging-with-winston/
 title: Logging with Winston and Node.js
 description: This article explain logging within the context of Winston. Winston processes your app activities and generate useful information into a log file or a database. 
 author: joseph-chege

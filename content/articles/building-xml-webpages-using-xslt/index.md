@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/building-xml-webpages-using-xslt/
+url: /building-xml-webpages-using-xslt/
 title: Building XML webpages using XSLT
 description: This tutorial will serve as an introduction on building XML webpages using XSLT. We will go through what XSLT is, how webpages are rendered, and how to build a sample XML webpage using XSLT.
 author: srishilesh-p-s

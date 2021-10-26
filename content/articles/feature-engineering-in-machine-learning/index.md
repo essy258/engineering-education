@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/feature-engineering-in-machine-learning/
+url: /feature-engineering-in-machine-learning/
 title: Feature Engineering in Machine Learning
 description: This article will go over a light overview of feature engineering concepts used in machine learning and help a developer distinguish between feature selection and feature engineering.
 author: collins-ayuya

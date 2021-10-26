@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/job-scheduling-in-nodejs/
+url: /job-scheduling-in-nodejs/
 title: Introduction to Job Scheduling in Node.js
 description: In this article we will go through the basic syntax of the node-cron module. We will build a simple Node.js application that sends periodic emails.
 author: peter-kayere

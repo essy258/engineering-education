@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/javascript-and-web-apis/
+url: /javascript-and-web-apis/
 title: How JavaScript Uses Web Browser APIs to Achieve Asynchronisity
 description: In this tutorial we will introduce us to Asynchronous JavaScript and walk through how JavaScript uses web browser APIs to achieve asynchronisity.
 author: adrian-murage

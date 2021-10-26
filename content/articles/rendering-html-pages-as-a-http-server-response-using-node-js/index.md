@@ -2,10 +2,10 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/rendering-html-pages-as-a-http-server-response-using-node-js
+url: /rendering-html-pages-as-a-http-server-response-using-node-js
 title: Rendering HTML Pages as an HTTP Server Response Using Node.js
 description: In this article, we will consider the various approaches to rendering an HTML page. We will create a Node.js server using Express.js and render the HTML page an HTTP server response. 
-author: moses-m
+author: moses-maina
 date: 2021-03-22T00:00:00-13:00
 topics: [Node.js]
 excerpt_separator: <!--more-->

@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/basics-of-convolution-neural-networks/
+url: /basics-of-convolution-neural-networks/
 title: Basics of Convolution Neural Networks
 description: This article will introduce the three building blocks of convolution neural networks; convolution layers, pooling layers, and fully connected (FC) layers.
 author: willies-ogola

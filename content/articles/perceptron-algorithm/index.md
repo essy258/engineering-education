@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/perceptron-algorithm/
+url: /perceptron-algorithm/
 title: Perceptron Algorithm - A Hands On Introduction
 description: This article will explain what perceptrons are, and we will implement the perceptron model from scratch using Numpy.
 author: lalithnarayan-c

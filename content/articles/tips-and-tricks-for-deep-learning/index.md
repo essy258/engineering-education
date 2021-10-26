@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/tips-and-tricks-for-deep-learning/
+url: /tips-and-tricks-for-deep-learning/
 title: Tips and Tricks for Deep Learning
 description: This article will explore various tips and tricks that may be useful when training deep learning models. We tweak deep learning models to improve them with more training and to improve the accuracy of results.
 author: willies-ogola

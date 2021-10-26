@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/web-developers-guide-seo/
+url: /web-developers-guide-seo/
 title: Developer's Guide to Search Engine Optimization
 description: A developers guide on implementing various techniques to improve a website's ranking on search engines such as Google.
 author: lalithnarayan-c

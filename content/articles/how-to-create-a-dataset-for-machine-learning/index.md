@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/how-to-create-a-dataset-for-machine-learning/
+url: /how-to-create-a-dataset-for-machine-learning/
 title: How to Create a Dataset for Machine Learning
 description: This article gives an overview of how datasets are created for Machine Learning models. Having good quality data is very important to ML systems. There are three key steps that have to be followed to achieve this. These include data acquisition, data cleaning, and data labeling.
 author: willies-ogola

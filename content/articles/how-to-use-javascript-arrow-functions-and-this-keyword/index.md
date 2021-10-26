@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/how-to-use-javascript-arrow-functions-and-this-keyword/
+url: /how-to-use-javascript-arrow-functions-and-this-keyword/
 title: How To Use Javascript Arrow Functions & This Keyword
 description: This tutorial will explain Javascript arrow functions and the this keyword and how to use it
 author: joseph-chege

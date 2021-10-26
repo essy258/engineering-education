@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/agora-express-token-server/
+url: /agora-express-token-server/
 title: Generating Authentication Token for Agora Applications
 description: This tutorial will give readers a detailed guide on how they can implement authentication for the Agora RTC SDK and RTM SDK.
 author: mohan-raj

@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/abstraction-concepts-part2/
+url: /abstraction-concepts-part2/
 title: Understanding Abstraction in Python, Part 2
 description: A concise look at abstraction principles with corresponding code examples. Polymorphism, encapsulation, methods and attributes, subclasses and superclasses, and inheritance.
 author: sophia-raji

@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/mysql-with-node-js/
+url: /mysql-with-node-js/
 title: MySQL with Node.js
 description: This tutorial will explain the basics of MySQL and how to use it with Node.js
 author: joseph-chege

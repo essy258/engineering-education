@@ -2,12 +2,12 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/introduction-to-random-forest-in-machine-learning/
+url: /introduction-to-random-forest-in-machine-learning/
 title: Introduction to Random Forest in Machine Learning
 description: This article will go over the concept random forest in machine learning. A random forest is a machine learning technique that is used to solve regression and classification problems.
 author: onesmus-mbaabu
 date: 2020-12-11T00:00:00-17:00
-topics: []
+topics: [Machine Learning]
 excerpt_separator: <!--more-->
 images:
 

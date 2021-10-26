@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/question-answering/
+url: /question-answering/
 title: An Introduction to Question Answering Systems
 description: Recently, I came across this library that enables one to create large-scale and distributed question answering systems. It solves a significant problem that we usually face in the vast field of Natural Language Processing.
 author: lalithnarayan-c
@@ -24,7 +24,7 @@ What are the question answering systems trying to achieve? Given a question, sho
 
 Google is a search engine. But, some questions are generated automatically while we search. This is due to the [knowledge graphs](/engineering-education/web-developers-guide-seo/#pagerank) that Google uses to represent vast amounts of data.
 
-![google python_example](python_example.png)
+![google python_example](/engineering-education/question-answering/python_example.png)
 
 ### Structure of Question Answering System
 The design of a question answering system has specific vital components. There are three distinct modules used in a question-answering system:
@@ -34,8 +34,8 @@ The design of a question answering system has specific vital components. There a
 
 Each of these modules performs a different task to give relevant answers. The image below summarizes the entire architecture.
 
-![architecture of question answering system](architecture-qna.png)<br>
-[*Image Source*](http://www.aliallam.net/upload/598575/documents/ECFF549932079694.pdf)
+![architecture of question answering system](/engineering-education/question-answering/architecture-qna.png)<br>
+*[Image Source](http://www.aliallam.net/upload/598575/documents/ECFF549932079694.pdf)*
 
 ### Query Processing Module
 As mentioned earlier, the query processing system deals with three main tasks:

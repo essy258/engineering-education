@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/performance-optimization-techniques-for-node-js/
+url: /performance-optimization-techniques-for-node-js/
 title: Performance Optimization tips for Node.js Applications
 description: This article covers performance optimization techniques, tools, and tips to make high-performing Node.js apps.
 author: joseph-chege

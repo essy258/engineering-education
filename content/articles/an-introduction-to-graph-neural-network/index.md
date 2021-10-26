@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/an-introduction-to-graph-neural-network/
+url: /an-introduction-to-graph-neural-network/
 title: An Introduction to Graph Neural Networks
 description: This article will explore some of the popular graph learning libraries, the various GNN models currently available, and the use cases for GNN.
 author: willies-ogola

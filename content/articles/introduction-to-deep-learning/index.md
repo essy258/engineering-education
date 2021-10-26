@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/introduction-to-deep-learning/
+url: /introduction-to-deep-learning/
 title: Introduction to Deep Learning
 description: This article serves as an introduction to Deep Learning which is a machine learning technique that automatically extracts the pieces of information using neural networks.
 author: judy-nduati

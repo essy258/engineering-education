@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/problem-framing/
+url: /problem-framing/
 title: Problem Framing in Machine Learning
 description: Choosing a machine learning method to implement on data is not the easiest of processes. It is essential first to understand the precise business problem and its objectives. For instance, understanding what is to be predicted and the potential outcomes is critical. In this article, we look at how to frame a machine learning problem correctly.
 author: collins-ayuya

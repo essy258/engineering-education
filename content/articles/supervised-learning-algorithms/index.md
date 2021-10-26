@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/supervised-learning-algorithms/
+url: /supervised-learning-algorithms/
 title: Supervised Learning Algorithms
 description: Introduction to supervised learning algorithms such as classification and regression algorithms.
 author: lalithnarayan-c

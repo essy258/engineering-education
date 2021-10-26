@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/random-search-hyperparameters/
+url: /random-search-hyperparameters/
 title: Using Random Search to Optimize Hyperparameters 
 description: Hyperparameter tuning is a significant step in the process of training machine learning and deep learning models. In this tutorial, we will discuss the random search method to obtain the set of optimal hyperparameters. Going through the article should help one understand the algorithm and its pros and cons. Finally, we will implement the same in Python using the library Scikit-Learn.
 author: collins-ayuya

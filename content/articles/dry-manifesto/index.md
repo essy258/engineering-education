@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/dry-manifesto/
+url: /dry-manifesto/
 title: A Something Sort Of Like a DRY-ism-ist Manifesto
 description: DRY (Don't Repeat Yourself) is a very important part of software engineering. This tutorial will show you how, using functions, generics, and inheritance.
 author: mike-white

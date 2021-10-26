@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/autoscaling-in-amazon-web-services/
+url: /autoscaling-in-amazon-web-services/
 title: Autoscaling in Amazon Web Services (AWS) - An Overview
 description: This article will go over Amazon Web Services or (AWS) which is a tool that provide various ways that enhance data management, storage, development, and networking in organizations.
 author: onesmus-mbaabu

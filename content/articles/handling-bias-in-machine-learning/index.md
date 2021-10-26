@@ -2,12 +2,12 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/handling-bias-in-machine-learning/
+url: /handling-bias-in-machine-learning/
 title: Handling Bias in Machine Learning
 description: This article will go over bias in machine learning, the various types of bias that occur in models and datasets and ultimately impact machine learning development.
 author: collins-ayuya
 date: 2020-10-08T00:00:00-11:00
-topics: []
+topics: [Machine Learning]
 excerpt_separator: <!--more-->
 images:
 

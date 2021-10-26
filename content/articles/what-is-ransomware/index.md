@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/what-is-ransomware/
+url: /what-is-ransomware/
 title: What is Ransomware?
 description: Ransmoware is a type of cybersecurity threat, or malware (malicious software) that attackers use to hack into their victims' devices, and force them to pay a ransom.
 author: maitreyi-karanjkar
@@ -69,7 +69,7 @@ Instead of having to deal with the messy aftermath of a ransomware attack, you c
 - Overall, just be aware of any suspicious activity in your email accounts, and on your electronic devices.
 
 ### Conclusion
-In the age of the Internet, keeping yourself safe from potential threats to your privacy is extremely important. Regardless of how many measures you take, the first step should be to stay vigilant and informed. Check out [this](engineering-education/what-is-anti-virus-software/) article on anti-malware for more information.
+In the age of the Internet, keeping yourself safe from potential threats to your privacy is extremely important. Regardless of how many measures you take, the first step should be to stay vigilant and informed. Check out [this](/engineering-education/what-is-anti-virus-software/) article on anti-malware for more information.
 
 ### Additional Resources & Readings
 

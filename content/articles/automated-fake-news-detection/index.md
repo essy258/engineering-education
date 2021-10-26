@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/automated-fake-news-detection/
+url: /automated-fake-news-detection/
 title: Introduction to Automated Fake News Detection
 description: Fake news refers to information content which is false, misleading or whose source cannot be verified. This content may be generated to intentionally damage reputation, deceive, to gain attention.
 author: collins-ayuya

@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/securing-ai-systems-from-adversaries/
+url: /securing-ai-systems-from-adversaries/
 title: Securing AI Systems from Adversaries
 description: This article will be going how to secure AI systems from adversarial threats with examples of how we can mitigate these attacks.
 author: collins-ayuya

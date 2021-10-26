@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/capsule-networks-an-enhancement-to-convolution-neural-networks/
+url: /capsule-networks-an-enhancement-to-convolution-neural-networks/
 title: Capsule Networks - An Enhancement to Convolutional Neural Networks 
 description: This article will introduce the main key ideas behind Capsule Networks (CapsNet). CapsNet is a better approach than CNN, but it's still at an infant stage.
 author: willies-ogola

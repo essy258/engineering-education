@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/mysql-query-optimization-using-indexes-with-examples/
+url: /mysql-query-optimization-using-indexes-with-examples/
 title: Tutorial on MySQL Database Optimization using Indexes
 description: This article is a comprehensive tutorial on how to understand MySQL database optimization using indexes.
 author: benson-kariuki

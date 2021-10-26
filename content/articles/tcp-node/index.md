@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/tcp-node/
+url: /tcp-node/
 title: Concepts of TCP, Explained with Node.js
 description: Networking is something all of us rely on every day. This article talks about the concepts of TCP explained with Node.js.
 author: mike-white

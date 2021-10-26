@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/android-viewpager2/
+url: /android-viewpager2/
 title: Android ViewPager2 with TabLayout
 description: In this article we will go through the basics of implementing ViewPager2 and TabLayout in an Android application.
 author: peter-kayere

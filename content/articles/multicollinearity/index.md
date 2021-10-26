@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/multicollinearity/
+url: /multicollinearity/
 title: How to Detect and Correct Multicollinearity in Regression Models
 description: Interpretability of machine learning models helps us understand the predictions of a model. Multicollinearity can be described as a data disturbance in a regression model. We have explored its causes, the problem it poses, how to detect and address it. 
 author: collins-ayuya

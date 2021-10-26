@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/managing-file-uploads-in-html-forms-using-php/
+url: /managing-file-uploads-in-html-forms-using-php/
 title: Managing File Uploads in HTML Forms using PHP
 description: In this article we will look at how we handle file uploads in HTML forms with PHP. It is an easy and efficient way of handling multipart form submissions. 
 author: felix-vaati

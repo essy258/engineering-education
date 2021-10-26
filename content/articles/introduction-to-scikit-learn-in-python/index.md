@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/introduction-to-scikit-learn-in-python/
+url: /introduction-to-scikit-learn-in-python/
 title: Introduction to Scikit Learn in Python
 description: This tutorial will be a brief dive into the multi-faceted world of scikit-learn in Python. SciKit-Learn is a vital library used to build statistical models to make predictions.
 author: prashanth-saravanan

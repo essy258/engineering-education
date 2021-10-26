@@ -2,12 +2,12 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/blockchain-consensus-protocols/
+url: /blockchain-consensus-protocols/
 title: An Overview of Consensus Protocols in Blockchain
 description: This article will be a discussion about the various consensus protocols and how they are used in a Blockchain.
 author: lalithnarayan-c
 date: 2021-01-28T00:00:00-15:00
-topics: []
+topics: [Blockchain]
 excerpt_separator: <!--more-->
 images:
 

@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/firebase-email-and-password-authentication-in-android-using-kotlin/
+url: /firebase-email-and-password-authentication-in-android-using-kotlin/
 title: Firebase Email and Password Authentication in Android using Kotlin
 description: This article gives the user a guide on how to implement firebase authentication in an android application.
 author: eric-gacoki

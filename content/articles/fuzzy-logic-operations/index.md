@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/fuzzy-logic-operations/
+url: /fuzzy-logic-operations/
 title: Introduction to Fuzzy Operations
 description: This article will be an introduction into fuzzy logic operations, we will introduce fuzzy sets and their applications.
 author: lalithnarayan-c

@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/making-api-requests-using-retrofit-android/
+url: /making-api-requests-using-retrofit-android/
 title: Simple GET request using Retrofit in Android
 description: In this article, we will illustrate how to make API requests using Retrofit. We will create a simple application that shows a list of Marvel characters from an API.
 author: briana-nzivu

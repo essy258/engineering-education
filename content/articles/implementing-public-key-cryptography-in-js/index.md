@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/implementing-public-key-cryptography-in-javascript/
+url: /implementing-public-key-cryptography-in-javascript/
 title: Implementing Public Key Cryptography in JavaScript
 description: This article will cover how to implement public key cryptography in Javascript. Public key cryptography is also known as asymmetric cryptography. In this method, there is a public key and a private key.
 author: kennedy-mwangi

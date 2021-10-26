@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/if-else-loops/
+url: /if-else-loops/
 title: If Else and Loops in C++
 description: If Else Loops, what are they? How do they work? In this article we will be going over some programming basics such as while loops, and for loops.
 author: parampreet-singh

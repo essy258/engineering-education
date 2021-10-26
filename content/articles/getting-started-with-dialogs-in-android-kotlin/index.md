@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/getting-started-with-dialogs-in-android-kotlin/
+url: /getting-started-with-dialogs-in-android-kotlin/
 title: Getting Started with Dialogs in Android Kotlin
 description: This tutorial takes the reader through creating and implementing dialogs in Android. A dialog is usually a small window that pops out on a devices screen.
 author: eric-gacoki

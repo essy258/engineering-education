@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/validating-xml-using-xsd/
+url: /validating-xml-using-xsd/
 title: Validating XML using XSD
 description: A tutorial on validating XML using XSD, how it is different from DTD and we will validate a sample XML document using XSD.
 author: srishilesh-p-s

@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/linear-regression-code/
+url: /linear-regression-code/
 title: Implementing Linear Regression Using Gradient Descent in Python
 description: This article will be a hands-on implementation of Linear Regression using the Gradient Descent algorithm in Python. We will implement the linear regression from scratch using numpy.
 author: lalithnarayan-c

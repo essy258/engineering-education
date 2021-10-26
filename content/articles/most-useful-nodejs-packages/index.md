@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/most-useful-nodejs-packages/
+url: /most-useful-nodejs-packages/
 title: Most Useful Node.js Packages
 description: This article will cover the most useful Node.js packages such as Express, Async, Browserify, and Lodash.
 author: joseph-chege

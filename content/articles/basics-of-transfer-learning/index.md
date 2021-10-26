@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/basics-of-transfer-learning/
+url: /basics-of-transfer-learning/
 title: Basics of Transfer Learning
 description: This article will go over the basics of transfer learning within machine learning and deep learning. Transfer learning allows us to train newer models and satisfy a variety of tasks.
 author: collins-ayuya

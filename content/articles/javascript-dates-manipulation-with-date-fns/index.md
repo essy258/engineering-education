@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/javascript-dates-manipulation-with-date-fns/
+url: /javascript-dates-manipulation-with-date-fns/
 title: Javascript Dates Manipulation with Date-fns
 description: This article will cover the basic applications of date-fns, date-fns is a lightweight library that provides comprehensive functions for date formatting and manipulation.
 author: joseph-chege

@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/breaking-down-public-cloud-vs-hybrid—cloud-vs-private-cloud/
+url: /breaking-down-public-cloud-vs-hybrid—cloud-vs-private-cloud/
 title: Breaking Down Public Cloud vs. Hybrid Cloud vs. Private Cloud
 description: This article will explore public, private, and hybrid cloud environments, their benefits and drawbacks, and help users decide on the best cloud solution according to their needs.
 author: eric-kahuha

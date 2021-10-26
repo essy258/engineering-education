@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/sparksql-mllibspark-part-3/
+url: /sparksql-mllibspark-part-3/
 title: Book Recommendation System using SparkSQL and MLlib- Spark Part 3
 description: We will dive into very useful Spark libraries namely SparkSQL and MLlib to build a book recommender using the same dataset from our previous PySpark article.
 author: keerthi-v

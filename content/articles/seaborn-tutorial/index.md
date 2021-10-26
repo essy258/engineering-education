@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/seaborn-tutorial/
+url: /seaborn-tutorial/
 title: How to use Seaborn for Data Visualization
 description: In this tutorial we will ve working with Seaborn, a Python Library used by data scientists for data visualization. Seaborn is an open-source Python library built on top of matplotlib.
 author: rahul-banerjee

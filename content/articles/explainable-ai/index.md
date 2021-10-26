@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/explainable-ai/
+url: /explainable-ai/
 title: Explainable AI - An Introduction
 description: This article will go over explainable AI which refers to the concept of how AI works and how it makes decisions. Explainable AI is concerned with explaining input variables and the decision-making stages of a model.
 author: collins-ayuya

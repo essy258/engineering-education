@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/how-to-optimize-cloud-computing-costs-with-cloud-bursting/
+url: /how-to-optimize-cloud-computing-costs-with-cloud-bursting/
 title: How to Optimize Cloud Computing Costs with Cloud Bursting
 description: This article will discuss the challenges and benefits of cloud bursting and show you how to optimize costs and improve cloud burst platforms' effectiveness.
 author: eric-kahuha

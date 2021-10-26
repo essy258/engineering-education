@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/correcting-data-shift/
+url: /correcting-data-shift/
 title: Correcting Dataset Shift in Machine Learning
 description: This article will be going over Dataset Shift and how to correct it in machine learning models to prevent performance degradation.
 author: collins-ayuya

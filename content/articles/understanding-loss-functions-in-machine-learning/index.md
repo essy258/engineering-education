@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/understanding-loss-functions-in-machine-learning/
+url: /understanding-loss-functions-in-machine-learning/
 title: Understanding Loss Functions in Machine Learning
 description: This tutorial will be a brief dive into the understanding loss functions used in Machine Learning.
 author: prashanth-saravanan

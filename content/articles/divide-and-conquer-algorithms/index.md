@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/divide-and-conquer-algorithms/
+url: /divide-and-conquer-algorithms/
 title: Divide and Conquer Method using Stock Price Optimization Problem
 description: In this article we will explore the algorithm to find the maximum possible profit given a list of historical prices. We will also discuss the advantages and disadvantages of the divide and conquer paradigm.
 author: lalithnarayan-c

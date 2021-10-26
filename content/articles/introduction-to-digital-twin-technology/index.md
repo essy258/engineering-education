@@ -2,9 +2,9 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/introduction-to-digital-twin-technology/
+url: /introduction-to-digital-twin-technology/
 title: Introduction to Digital Twin Technology
-description: This article will go over the concept of digital twin technology and how the digital twin concept works.
+description: This article will go over the concept of digital twin technology. This enables companies to develop digital copies of their products, assets, or processes to optimize performance and maintenance.
 author: onesmus-mbaabu
 date: 2020-12-04T00:00:00-13:00
 topics: []

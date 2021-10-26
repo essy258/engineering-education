@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/css-flexbox-vs-css-grid/
+url: /css-flexbox-vs-css-grid/
 title: CSS Flexbox vs CSS Grid
 description: There are many modern CSS technologies that are making it a lot easier to create dynamic layouts. Two of these are CSS Flexbox and CSS Grid. Learn the difference between them.
 author: joseph-chege

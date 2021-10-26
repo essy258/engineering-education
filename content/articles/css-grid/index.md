@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/css-grid/
+url: /css-grid/
 title: Create Two-Dimensional Layouts for Websites using CSS Grid
 description: CSS Grid is a two-dimensional positioning layout system in CSS, that can be used to create responsive interfaces for the web.
 author: saiharsha-balasubramaniam

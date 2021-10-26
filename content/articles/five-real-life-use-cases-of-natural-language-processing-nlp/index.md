@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/five-real-life-use-cases-of-natural-language-processing-nlp/
+url: /five-real-life-use-cases-of-natural-language-processing-nlp/
 title: 5 Real Life Use Cases of Natural Language Processing (NLP)
 description: This article will go over the five real life use cases of natural language processing (NLP).
 author: eric-kahuha

@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/restful-web-api-using-nodejs-postgressql-and-express/
+url: /restful-web-api-using-nodejs-postgressql-and-express/
 title: Building a RESTful Web API in Node.js using PostgresSQL and Express
 description: This tutorial will provide a step by step guide on how to build a powerful web API in Node.js using Express and PostgreSQL database. 
 author: joseph-chege

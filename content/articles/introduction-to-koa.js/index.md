@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/introduction-to-koajs/
+url: /introduction-to-koajs/
 title: Introduction to the Koa.js Framework
 description: Koa.js is an open-source Node.js framework used to build developer-friendly and expressive web applications as well as APIs.
 author: peter-kayere

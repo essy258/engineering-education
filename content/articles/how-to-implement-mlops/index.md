@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/how-to-implement-mlops/
+url: /how-to-implement-mlops/
 title: How to Implement MLOps
 description: This article will go over how MLOps automates the processes of model development, drift monitoring, quality control, model governance, model retraining, and pipelining into a single platform.
 author: eric-kahuha

@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/an-introduction-to-memoization-in-javascript/
+url: /an-introduction-to-memoization-in-javascript/
 title: Introduction to Memorization in JavaScript
 description: This article will explain how to implement the memorization technique to pure functions that have expensive computations to imporove the performance of a JavaScript program.
 author: joseph-chege

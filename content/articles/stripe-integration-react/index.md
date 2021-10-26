@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/stripe-integration-react/
+url: /stripe-integration-react/
 title: Beginner's Guide to Stripe Integration in React
 description: Learn how to create a Stripe account and integrate Stripe Payment with your React project.
 author: lalithnarayan-c

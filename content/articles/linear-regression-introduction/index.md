@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/linear-regression-introduction/
+url: /linear-regression-introduction/
 title: Theoretical Introduction to Linear Regression
 description: This article will serve as an theoretical introduction to liner regression used in machine learning algorithms. In this article, we will define the class `LinearRegression.`  
 author: lalithnarayan-c

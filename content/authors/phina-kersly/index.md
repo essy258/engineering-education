@@ -1,5 +1,5 @@
 ---
 title: Phina Kersly
-type: engineering-education/author
+type: authors
 ---
-Phina is an undergradute student who loves technology. She has drive for coding websites and Android apps. 
+Phina is an undergradute student who loves technology. She has drive for coding websites and Android apps. Currently, she is working on Android programming and Networking basics.

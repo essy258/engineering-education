@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/introduction-to-junit-and-mockito/
+url: /introduction-to-junit-and-mockito/
 title: Introduction to Junit and Mockito
 description: This tutorial will cover the basics of JUnit and Mockito. We will learn how to write unit tests, how to create mock objects, and some useful tips on these frameworks.
 author: john-amiscaray

@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/functions-in-cpp/
+url: /functions-in-cpp/
 title: Functions in C++
 description: Functions in C++, what are they? How do they work? In this article we will be going over one of the most fundamental idea in programming.
 author: parampreet-singh

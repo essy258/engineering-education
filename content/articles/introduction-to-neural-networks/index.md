@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/introduction-to-neural-networks/
+url: /introduction-to-neural-networks/
 title: Introduction to Neural Networks
 description: In this article, you will learn the basics of artificial neural networks or ANN. It will also give you an in-depth interpretation of how neural networks operate.
 author: judy-nduati

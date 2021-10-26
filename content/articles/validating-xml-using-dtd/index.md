@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/validating-xml-using-dtd/
+url: /validating-xml-using-dtd/
 title: Validating XML using DTD
 description: A tutorial on introduction to XML, the need for XML validation, and how validation is done using DTD.
 author: srishilesh-p-s
@@ -90,7 +90,7 @@ Now, let's see how to build a sample XML document and how validation is done usi
 #### Building XML Document
 In HTML, we have to use predefined tags like `<html></html>` or `<body></body>` for interpreting our data on the web. But, when using XML, user-defined tags can be created easily, and we use them to transport information between webpages.
 
-For example, let’s take a closer look at how XML documents are built for ‘Contact us’ pages like [this](/contact-us/). Here, we have 5 different input fields:
+For example, let’s take a closer look at how XML documents are built for ‘Contact us’ pages. Here, we have 5 different input fields:
 
 First Name, Last Name, Company Name, Email address, and Message fields.
 

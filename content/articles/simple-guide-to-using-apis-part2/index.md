@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/simple-guide-to-using-apis-part2/
+url: /simple-guide-to-using-apis-part2/
 title: Getting to Grips with APIs - Authentication
 description: Using the Goodreads API, goodreads-api-node wrapper and oAuth1 to authenticate users with their Goodreads account to make authenticated requests such as returning a user's owned books.
 author: louise-findlay

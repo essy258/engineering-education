@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/how-to-replicate-postgresql-database/
+url: /how-to-replicate-postgresql-database/
 title: Replication of PostgreSQL Database
 description: This article will go over the replication of postgreSQL database process. We will be using Ubuntu 18.04 LTS and PostgreSQL 10. 
 author: sylvester-tamba

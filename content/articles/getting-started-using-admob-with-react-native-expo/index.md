@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/getting-started-using-admob-with-react-native-expo/
+url: /getting-started-using-admob-with-react-native-expo/
 title: Getting Started Using Admob to React Native Expo 
 description: In this tutorial we are going to go over how to set up and configure Admob into a React Native app based on the Expo ecosystem.
 author: worawat-kaewsanmaung

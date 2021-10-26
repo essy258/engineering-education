@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/binary-tree-data-structure-python/
+url: /binary-tree-data-structure-python/
 title: Using the Binary Tree Data Structure in Python
 description: Binary Trees are non-linear data structures that are used for lookups and data organization. This article explores ways to implement and use the binary tree data structure in Python.
 author: saiharsha-balasubramaniam

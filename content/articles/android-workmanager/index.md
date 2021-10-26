@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/android-workmanager/
+url: /android-workmanager/
 title: Basics of Android Workmanager
 description: This article goes through the basics of Andriod workmanager, which is an AndroidX library that helps in running tasks asynchronously. It ensures that the work is done even if the user exits the app or the device restarts.
 author: linus-muema

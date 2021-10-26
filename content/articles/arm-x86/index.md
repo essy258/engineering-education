@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/arm-x86/
+url: /arm-x86/
 title: ARM vs x86 - Explained
 description: Apple recently made headlines for their announcement to switch their MacBooks to an ARM instruction set. ARM has several advantages over x86, which we will find out about.
 author: mike-white
@@ -28,7 +28,7 @@ ARM is designed to be smaller, more energy-efficient, and creates less heat.  Th
 The same benefits appear in laptops. Apple has historically had problems with overheating in [2020](https://www.macworld.co.uk/news/mac/2020-macbook-air-problems-3788127/), [2018](https://www.zdnet.com/article/apple-patches-2018-macbook-pro-to-address-throttled-performance-and-overheating/), [2015](https://www.theverge.com/2019/6/20/18693136/apple-recall-2015-15-inch-macbook-pro-battery-overheat-fire-risk-safety), and [older](https://discussions.apple.com/thread/5815813). ARM would allow Apple to make their MacBooks cooler, so they don't run into throttling issues. It would allow them to make devices that have a longer battery life. [There's also a possibility of Apple's laptops getting smaller](https://www.forbes.com/sites/ewanspence/2020/07/20/apple-macos-bigsur-macbook-pro-arm-intel-advantages-danger/#1354fad339f7).
 
 ### Drawbacks of ARM
-One problem is that x86 programs can't run on ARM. Programs will need to be completely rewritten to run on Apple's newer machines. Most programming languages can target ARM just fine. Any currently-maintained programs should have few problems. Anything written in [Assembly](/engineering-education/articles/assembly-part-1/) will need to be rewritten to work on ARM though.
+One problem is that x86 programs can't run on ARM. Programs will need to be completely rewritten to run on Apple's newer machines. Most programming languages can target ARM just fine. Any currently-maintained programs should have few problems. Anything written in [Assembly](/engineering-education/assembly-part-1/) will need to be rewritten to work on ARM though.
 
 The main problem is for programs that are no longer being updated. Apple has [Rosetta 2](https://www.theverge.com/21304182/apple-arm-mac-rosetta-2-emulation-app-converter-explainer), which can run x86 applications. However, Rosetta 1 was known to run much slower than on original hardware. This is by necessity. Rosetta needs to translate the x86 instructions into ARM instructions in real-time. To be fair, Java converts from [bytecode to everything else](https://www.javatpoint.com/java-bytecode), and it seems to work [fine-ish](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/java.html). Still, it seems hard to imagine being able to play games from the 2010's if Microsoft also decides to switch to ARM.
 

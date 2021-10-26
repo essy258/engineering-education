@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/how-aiops-is-transforming-it-operations/
+url: /how-aiops-is-transforming-it-operations/
 title: How AIOps is Transforming IT Operations
 description: This article will discuss the benefits and challenges of AIOps, how it works, and highlights the best AIOps software. AIOps uses algorithmic analysis of IT data to help DevOps teams to work faster and smarter.
 author: eric-kahuha

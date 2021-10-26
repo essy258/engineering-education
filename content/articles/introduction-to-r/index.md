@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/introduction-to-r/
+url: /introduction-to-r/
 title: Introduction to R Programming
 description: This article will serve as an introduction to the R programming language which is a software environment developed for statistical and graphical computing.
 author: lalithnarayan-c

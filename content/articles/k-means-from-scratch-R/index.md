@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/k-means-from-scratch-r/
+url: /k-means-from-scratch-r/
 title: Step by Step Guide to Implement K-Means Algorithm in R
 description: This article will go over how to code the K-means algorithms from scratch and will visualize the results.
 author: lalithnarayan-c

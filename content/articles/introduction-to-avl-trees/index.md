@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/introduction-to-avl-trees/
+url: /introduction-to-avl-trees/
 title: Introduction to AVL trees
 description: This article will serve as an introduction to AVL trees or self-balancing trees which are an efficient data structures. They have efficient time and space complexities.
 author: prashanth-saravanan

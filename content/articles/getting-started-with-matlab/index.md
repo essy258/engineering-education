@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/getting-started-with-matlab/
+url: /getting-started-with-matlab/
 title: Getting Started with MATLAB
 description: This tutorial will serve as an introduction to MATLAB, MATLAB has an additional package, called "Simulink", that you can use for graphical multi-domain simulation and model-based design for dynamic and embedded systems.  
 author: ahmad-mardeni

@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/http-requests-nodejs/
+url: /http-requests-nodejs/
 title: Understanding HTTP Requests in Node.js
 description: HyperText Transfer Protocol is mainly used for transmitting multimedia documents and to enhance collaborative and distributed features of an application. In this article, we look at HTTP Requests in detail and use some popular Node.js libraries to perform various processes.
 author: lalithnarayan-c

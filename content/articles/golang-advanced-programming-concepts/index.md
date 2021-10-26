@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/golang-advanced-programming-concepts/
+url: /golang-advanced-programming-concepts/
 title: Advanced Programming Concepts with Go
 description: This article will go over advanced programming concepts in Go such as functions, structures, and arrays.
 author: adith-bharadwaj

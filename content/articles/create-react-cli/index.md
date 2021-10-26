@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/create-react-cli/
+url: /create-react-cli/
 title: Building CLI Applications using React.js
 description: In this tutorial we will create a simple CLI application using React.js framework and the INK library.
 author: daniel-katungi

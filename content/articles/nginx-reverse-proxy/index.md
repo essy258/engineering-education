@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/nginx-reverse-proxy/
+url: /nginx-reverse-proxy/
 title: Deploying Multiple Applications to VMs with NGINX as a Reverse Proxy
 description: Introduction to the NGINX web server that can be used as a reverse proxy, load balancer, mail proxy, and HTTP cache.
 author: harish-ramesh-babu

@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/android-paging-library/
+url: /android-paging-library/
 title: Paging in Android
 description: This article takes the reader through integrating the paging library into an Android application. Paging library helps in fetching data in page sets rather than a single list.
 author: linus-muema

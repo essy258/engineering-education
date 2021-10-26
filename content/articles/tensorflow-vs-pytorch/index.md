@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/tensorflow-vs-pytorch/
+url: /tensorflow-vs-pytorch/
 title: TensorFlow vs. PyTorch - Which one to pick? 
 description: This article will compare the Tensorflow and Pytorch frameworks used in deep learning and neural networks. These frameworks are used to design, test, and deploy deep learning models.
 author: willies-ogola

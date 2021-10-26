@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/npm-packages/
+url: /npm-packages/
 title: Create and Deploy NPM Packages
 description: Introduction to Node.js modules and a hands-on 'how to' create and deploy a Node.js module to the npm registry.
 author: saiharsha-balasubramaniam
@@ -32,7 +32,7 @@ A package manager is software that manages versions, packages and dependencies f
 
 To install Node.js packages, we use the [NPM registry](https://www.npmjs.com/), which is a centralized repository of packages. In this article, we will learn how to create a Node.js package and deploy it on the NPM registry for public use.
 
-For more background on Node.js and various related technologies, check out some amazing [Section.io](/engineering-education/) articles below:
+For more background on Node.js and various related technologies, check out some amazing [Section.io](/) articles below:
 
 - [Most Useful Node.js Packages](/engineering-education/most-useful-nodejs-packages/)
 - [Building a Node.js Application Using Docker](/engineering-education/building-a-nodejs-application-using-docker/)

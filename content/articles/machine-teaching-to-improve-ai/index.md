@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/machine-teaching-to-improve-ai/
+url: /machine-teaching-to-improve-ai/
 title: Machine Teaching to Improve Artificial Intelligence
 description: This article will be going over machine teaching and how it combines the expertise of human domain experts with machine learning to automate the management of machine learning algorithms.
 author: collins-ayuya

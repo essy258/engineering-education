@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/how-artificial-intelligence-has-transformed-the-sports-industry/
+url: /how-artificial-intelligence-has-transformed-the-sports-industry/
 title: How Artificial Intelligence has Transformed the Sports Industry
 description: This article outlines the importance of artificial intelligence in modern sports and how it has helped in sports evolution. It explains technology's role in today's sports and what we expect in the future. 
 author: pius-macharia

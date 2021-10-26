@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/first-android-app/
+url: /first-android-app/
 title: Creating Your First Android Application
 description: This article will be a step-by-step guide on creating your first android application. It will be a very simple application to give you a general knowledge of android apps
 author: diana-mutheu

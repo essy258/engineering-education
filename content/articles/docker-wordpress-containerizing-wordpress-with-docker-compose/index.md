@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/docker-wordpress-containerizing-wordpress-with-docker-compose/
+url: /docker-wordpress-containerizing-wordpress-with-docker-compose/
 title: Containerizing WordPress with Docker-Compose
 description: This article provides a step by step guide on how to use Docker in a WordPress application. Docker Compose simplifies the management of an application's service dependencies.
 author: rose-waitherero

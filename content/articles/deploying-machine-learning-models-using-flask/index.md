@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/deploying-machine-learning-models-using-flask/
+url: /deploying-machine-learning-models-using-flask/
 title: Deploying Machine Learning Models using Flask
 description: This tutorial will serve as an introduction on deploying Machine Learning models using Flask. We will go through various steps for building an end-to-end web application with inbuilt Machine Learning model using Flask.
 author: srishilesh-p-s

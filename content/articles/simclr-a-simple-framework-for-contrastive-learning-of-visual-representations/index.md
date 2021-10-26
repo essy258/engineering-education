@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/simclr-a-simple-framework-for-contrastive-learning-of-visual-representations/
+url: /simclr-a-simple-framework-for-contrastive-learning-of-visual-representations/
 title: SimCLR - Contrastive Learning of Visual Representations 
 description: This article be an overview of self-supervised learning. It is a subset of unsupervised learning that aims at mimicking how humans and animals learn. It automatically generates a supervisory signal that helps to solve tasks.
 author: willies-ogola
@@ -40,7 +40,7 @@ Throughout this article, this [paper](https://arxiv.org/pdf/2002.05709.pdf) publ
 Let's learn about the SimCLR framework's details and the results presented in the [paper](https://arxiv.org/pdf/2002.05709.pdf) published by Google.
 
 ### An overview of the SimCLR framework
-![An illustration of the proposed SimCLR framework](/https://1.bp.blogspot.com/--vH4PKpE9Yo/Xo4a2BYervI/AAAAAAAAFpM/vaFDwPXOyAokAC8Xh852DzOgEs22NhbXwCLcBGAsYHQ/s1600/image4.gif)
+![An illustration of the proposed SimCLR framework](/engineering-education/https://1.bp.blogspot.com/--vH4PKpE9Yo/Xo4a2BYervI/AAAAAAAAFpM/vaFDwPXOyAokAC8Xh852DzOgEs22NhbXwCLcBGAsYHQ/s1600/image4.gif)
 
 *[Image Source: Google AI Blog](https://ai.googleblog.com/2020/04/advancing-self-supervised-and-semi.html)*
 

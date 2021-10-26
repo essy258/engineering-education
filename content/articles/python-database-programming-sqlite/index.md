@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/python-database-programming-sqlite/
+url: /python-database-programming-sqlite/
 title: Python Database Programming - SQLite
 description: In this tutorial we will learn how to use the Python SQLite library, how to interact with it, and execute queries within a Python application.
 author: ahmad-mardeni

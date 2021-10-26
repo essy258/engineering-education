@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/node-vs-nuxt/
+url: /node-vs-nuxt/
 title: Node.js vs Nuxt - The Key Differences
 description: A comparison between Node.js and Nuxt, two of the most popular web technologies. Why they are needed, and we create a simple application in both.
 author: saiharsha-balasubramaniam

@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/setting-up-cicd-for-python-packages-using-github-actions/
+url: /setting-up-cicd-for-python-packages-using-github-actions/
 title: Setting up CI/CD for Python Packages using GitHub Actions
 description: This article will provide an overview what CI/CD is, build a Python package to inform time in various timezones and deploy the package via GitHub Actions.
 author: edidiong-etuk

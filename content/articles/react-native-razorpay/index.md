@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/react-native-razorpay/
+url: /react-native-razorpay/
 title: React Native Razorpay Integration
 description: This tutorial provides readers with a detailed guide on how to implement Razorpay in a React Native application with the help of a Express server.
 author: mohan-raj

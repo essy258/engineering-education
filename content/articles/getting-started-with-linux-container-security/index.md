@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/getting-started-with-linux-container-security/
+url: /getting-started-with-linux-container-security/
 title: Basics of Linux Container Security
 description: This article informs you of the different processes and features involved in promoting Linux container security. It also guides you on how to enhance LXC container security.
 author: mauline-mwaniki

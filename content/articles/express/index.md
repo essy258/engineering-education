@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/express/
+url: /express/
 title: Introduction to Express.js
 description: Express is a lightweight framework on top of Node.js, it adds functionalities like middleware, template engines, and routing.
 author: rohan-reddy

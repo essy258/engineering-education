@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/laravel-beginners-guide-blogpost/
+url: /laravel-beginners-guide-blogpost/
 title: Building Your First Laravel Application (Blog Application)
 description: This article will be a step by step guide on how to build a Laravel (which is a is a PHP MVC Framework) application (blog application) using CRUD operations.
 author: mauline-mwaniki
@@ -700,7 +700,7 @@ Then modify the code in your `BlogPostController.php` in `show()` method to look
 
 public function show(BlogPost $blogPost)
 {
-    return view(‘blog.show’, [
+    return view('blog.show', [
         ‘post’ => $blogPost,
     ]); //returns the view with the post
 }

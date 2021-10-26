@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/android-custom-views-extending-view-subclass/
+url: /android-custom-views-extending-view-subclass/
 title: Android - Extending View Subclass
 description: In this article will go through how to create a custom View is by extending an existing widget in Android.
 author: peter-kayere

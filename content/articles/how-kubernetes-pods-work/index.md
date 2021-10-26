@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/how-kubernetes-pods-work/
+url: /how-kubernetes-pods-work/
 title: How Kubernetes Pods Work
 description: In this article we will discuss Kubernetes Pods, their model types, benefits, how they work, and how they communicate with each other in Kubernetes.
 author: eric-kahuha

@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/introduction-to-dynamic-programming/
+url: /introduction-to-dynamic-programming/
 title: Introduction to Dynamic Programming
 description: This article will go over dynamic programming (popularly referred to as DP) operates, with a few coding examples as examples. Dynamic Programming (DP) is an algorithmic technique used when solving an optimization problem by breaking it down into simpler subproblems.
 author: adith-bharadwaj

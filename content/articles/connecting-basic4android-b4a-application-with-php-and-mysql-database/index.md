@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/connecting-basic4android-b4a-application-with-php-and-mysql-database/
+url: /connecting-basic4android-b4a-application-with-php-and-mysql-database/
 title: Connecting Basic4Android (B4A) Application to PHP and MySQL Database
 description: This article will go over creating a B4A application that communicates with the database using PHP from the article. We will also install Xampp, create a database, create a simple B4A application.
 author: sylvester-tamba
@@ -24,7 +24,7 @@ With stored data, there is easier service delivery from organization to their cl
 ### Prerequisites
 Before we begin, it would be useful for the reader to have the following:
 - A basic knowledge in SQL, PHP, and B4A programming.
-- A B4A application installed on a Windows computer. Follow the instructions in this [article](/introduction-to-android-app-development-basic4android-b4a-part1/) on how to install and configure B4A.
+- A B4A application installed on a Windows computer. Follow the instructions in this [article](/engineering-education/introduction-to-android-app-development-basic4android-b4a-part1/) on how to install and configure B4A.
 - PHP and MySQL development environment: In this case, we will use Xampp.
 
 ### Installing B4A

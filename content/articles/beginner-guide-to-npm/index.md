@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/beginner-guide-to-npm/
+url: /beginner-guide-to-npm/
 title: An Absolute Beginner Guide to Node Package Manager
 description: In this guide, we will cover the basics of NPM, see what we can achieve with it, and understand the whole concept of NPM.
 author: joseph-chege

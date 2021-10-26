@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/node-versus-next-react-approach/
+url: /node-versus-next-react-approach/
 title: Node.js versus Next.js - A React Approach
 description: This article compares the difference between Node.js and Next.js from a React approach - going over utility applications which are used to enhance the performance applications.
 author: lalithnarayan-c

@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/consuming-apis-in-flutter/
+url: /consuming-apis-in-flutter/
 title: Consuming APIs in Flutter
 description: In this article, we will understand APIs and how to use them in Flutter. We will also learn to use the GitHub API in a flutter application.
 author: jerim-kaura

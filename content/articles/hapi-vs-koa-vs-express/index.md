@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/hapi-vs-koa-vs-express/
+url: /hapi-vs-koa-vs-express/
 title: Hapi vs Koa vs Express
 description: In this article we do a comparative analysis of three Node.js frameworks - we explore their advantages, disadvantages, and show an example of how to run a server in each.
 author: peter-kayere

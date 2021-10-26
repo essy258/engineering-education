@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/cloud-firestore/
+url: /cloud-firestore/
 title: Getting Started with Cloud Firestore
 description: This is a short article that shows developers how Cloud Firestore (a NoSQL database that applications can access) works and some of its basic operations.
 author: linus-muema

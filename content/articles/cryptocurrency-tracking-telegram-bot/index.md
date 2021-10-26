@@ -2,12 +2,12 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/cryptocurrency-tracking-telegram-bot/
+url: /cryptocurrency-tracking-telegram-bot/
 title: Building a Cryptocurrency Tracking Telegram Bot with Python
 description: Telegram bots are accounts operated by software that serve as handy tools for many tasks. In this article, we will build a cryptocurrency tracking telegram bot using Python.
 author: solomon-esenyi
 date: 2021-02-17T00:00:00-13:00
-topics: []
+topics: [Blockchain]
 excerpt_separator: <!--more-->
 images:
 

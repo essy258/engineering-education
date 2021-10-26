@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/ensemble-bias-var/
+url: /ensemble-bias-var/
 title: Ensemble Learning on Bias and Variance
 description: This article will provide an overview on on the errors of bias and variance. The goal is to understand the two errors. We will explore their relationship with each other and how ensemble methods affect them.
 author: collins-ayuya

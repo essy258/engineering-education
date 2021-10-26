@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/introduction-to-kubernetes/
+url: /introduction-to-kubernetes/
 title: Getting Started with Kubernetes
 description: This article will go over the various components found in Kubernetes architecture. We will include example YAML and JSON files used for deployment.
 author: odhiambo-paul

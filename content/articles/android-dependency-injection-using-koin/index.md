@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/android-dependency-injection-using-koin/
+url: /android-dependency-injection-using-koin/
 title: Android Dependency Injection With Koin
 description: This article will provide a step by step guide on how to implement Android dependency injection using Koin. This framework helps save significant time by enabling you to manage Android dependencies easily.
 author: peter-kayere

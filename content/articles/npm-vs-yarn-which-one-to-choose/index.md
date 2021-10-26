@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/npm-vs-yarn-which-one-to-choose/
+url: /npm-vs-yarn-which-one-to-choose/
 title: Choosing Between NPM and Yarn
 description: This article explains the key features and differences of NPM and Yarn. It will also act as a guideline when it comes to working with different package managers.
 author: joseph-chege
@@ -149,7 +149,7 @@ You can again run `npm audit` to check your entire dependency trees. If any vuln
 
 To fix such package vulnerabilities, run `npm audit fix`, and your dependency trees will be fixed.
 
-![audit fix](npm-audit-fix.jpg)
+![audit fix](/engineering-education/npm-vs-yarn-which-one-to-choose/npm-audit-fix.jpg)
 
 ### Ease of use
 One thing to consider before choosing a package manager would be the to see which interface is user friendly. This includes how the command line terminal looks after running commands such as `npm install` or `yarn add`.

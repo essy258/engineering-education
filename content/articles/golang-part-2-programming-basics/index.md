@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/golang-part-2-programming-basics/
+url: /golang-part-2-programming-basics/
 title:  Golang - Programming Basics
 description: Covering the basics of programming in Go - directories, workspaces, variables, loops, conditionals and control flow, etc.
 author: adith-bharadwaj

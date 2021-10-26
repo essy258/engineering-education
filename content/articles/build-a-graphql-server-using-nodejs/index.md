@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/build-a-graphql-server-using-nodejs/
+url: /build-a-graphql-server-using-nodejs/
 title: How to build a GraphQL Server Using Node.js
 description: This tutorial will serve as a guide on the basics of GraphQL and will go over how we build a GraphQL server using Node.js.
 author: abel-mathew

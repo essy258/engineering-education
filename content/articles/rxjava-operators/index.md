@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/rxjava-operators/
+url: /rxjava-operators/
 title: Deep dive into RxJava Operators
 description: This article goes over operators in RxJava. Operators are used to create observables and manipulate data received by the observables. There are many observables with various functions.
 author: linus-muema

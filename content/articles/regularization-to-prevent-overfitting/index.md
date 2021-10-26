@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/regularization-to-prevent-overfitting/
+url: /regularization-to-prevent-overfitting/
 title: Regularization to Prevent Overfitting
 description: This article will provide an overview on how to prevent overfitting of data using Regularization. The goal is to understand what overfitting is, and how to prevent them using regularization techniques.
 author: collins-ayuya

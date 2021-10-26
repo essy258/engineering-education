@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/how-to-use-databinding-in-android-using-kotlin/
+url: /how-to-use-databinding-in-android-using-kotlin/
 title: Databinding in Android using Kotlin
 description: In this tutorial we will learn how to implement data binding in Andriod using Kotlin.
 author: michael-barasa

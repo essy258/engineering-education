@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/documenting-node-js-rest-api-using-swagger/
+url: /documenting-node-js-rest-api-using-swagger/
 title: Documenting a Node.js REST API using Swagger
 description: In this article, we will learn about API documentation using Swagger. Also, we will learn to document Node.js APIs using Swagger from scratch.
 author: kennedy-mwangi

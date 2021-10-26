@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/heap-data-structure-python/
+url: /heap-data-structure-python/
 title: Using the Heap Data Structure in Python
 description: Heaps are special binary trees that have a special property. The key present at the root node of every sub-tree must be either the greatest or minimum among all the keys.
 author: saiharsha-balasubramaniam

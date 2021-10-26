@@ -2,7 +2,7 @@
 layout: engineering-education
 status: publish
 published: true
-url: /engineering-education/android-studio-shimmer-loading-effect/
+url: /android-studio-shimmer-loading-effect/
 title: Implementing Shimmer Loading Effect in Android Studio
 description: This article will help developers animate the data loading process using Shimmer. The tutorial has provided an overview of how to implement the shimmer loading animation using RecyclerView.
 author: joseph-chege
